@@ -2984,6 +2984,11 @@ input, select, textarea {
 	height: 50%;
 }
 
+#adlisterProjImg{
+	width: 50%;
+	height: 50%;
+}
+
 /* Spotlights */
 
 	.spotlights > section {
